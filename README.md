@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 ![nventive](https://nventive-public-assets.s3.amazonaws.com/nventive_logo_github.svg?v=2)
 
-# terraform-aws-module-skeleton
+# terraform-aws-module-template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE) [![Latest Release](https://img.shields.io/github/release/nventive/terraform-aws-module-skeleton.svg?style=flat-square)](https://github.com/nventive/terraform-aws-module-skeleton/releases/latest)
 
